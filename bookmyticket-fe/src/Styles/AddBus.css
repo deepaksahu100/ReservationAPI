@@ -1,0 +1,27 @@
+.addbus form{
+    display: grid;
+    grid-template-columns: 200px 300px;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    padding: 5px;
+    box-shadow: 0px 0px 5px white;
+}
+
+.addbus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('https://t3.ftcdn.net/jpg/02/90/89/76/360_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.addbusbtn{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    padding: 25px;
+    padding: 21px;
+}

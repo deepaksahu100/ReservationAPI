@@ -1,0 +1,34 @@
+.adminlogin form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 150px 300px;
+    box-shadow: 0px 0px 20px white;
+    
+    padding: 10px;
+}
+
+form p{
+    width: 500px;
+    padding: 5px 0px 0px 0px;
+}
+
+form a{
+    color: red;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+
+.adminlogin{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    width: 100%;
+    
+    height: 100vh;
+    color: white;
+    background: url('https://img.freepik.com/free-vector/futuristic-background-design_23-2148503793.jpg?size=626&ext=jpg&ga=GA1.1.44546679.1716940800&semt=ais_user');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

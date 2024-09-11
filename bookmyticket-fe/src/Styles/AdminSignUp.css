@@ -1,0 +1,54 @@
+.adminsignup form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 150px 300px;
+    box-shadow: 0px 0px 20px black;
+    width: 500px;
+    padding: 10px;
+}
+
+.adminheading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 430px;
+    color: white;
+}
+
+.btnadmin{
+    width: 420px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 0px 5px 0px;
+}
+
+.adminsignup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('https://img.freepik.com/free-vector/futuristic-background-design_23-2148503793.jpg?size=626&ext=jpg&ga=GA1.1.44546679.1716940800&semt=ais_user');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form label{
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+form input{
+    margin: 10px;
+    border: none;
+    background-color: rgb(141, 128, 128);
+}
+
+input::placeholder{
+    color: black;
+    padding: 0px 0px 0px 4px;
+}
+
+

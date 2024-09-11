@@ -1,0 +1,14 @@
+.adminnavbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 10px;
+}
+
+.logo h3{
+    color: red;
+}
+
+.logo h3 span{
+    color: rgb(24, 123, 204);
+}
