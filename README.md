@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/deepaksahu100/BookMyTicket-Application" alt="project-image"></p>
 
-<p id="description">BookMyTicket is a web application designed to streamline the process of bus ticket booking. The application provides both user and admin interfaces to manage bus schedules bookings and user accounts. Key features: Admin/User Authentication Admin/User Dashboard. Technology used: HTML CSS JavaScript React JS MySQL SpringBoot. API Integration: Axios (React) library for API calls.</p>
+<p id="description">ReservationAPI is a web application designed to streamline the process of bus ticket booking. The application provides both user and admin interfaces to manage bus schedules bookings and user accounts. Key features: Admin/User Authentication Admin/User Dashboard. Technology used: HTML CSS JavaScript React JS MySQL SpringBoot. API Integration: Axios (React) library for API calls.</p>
 
 <h2>🚀 Demo</h2>
 
