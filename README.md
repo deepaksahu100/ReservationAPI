@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://github.com/deepaksahu100/BookMyTicket-Application](https://github.com/deepaksahu100/BookMyTicket-Application)
+[https://github.com/deepaksahu100/ReservationAPI](https://github.com/deepaksahu100/ReservationAPI)
 
   
   
